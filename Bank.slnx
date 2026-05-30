@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Abstract/Abstract.csproj" />
   <Project Path="Bank/Bank.csproj" />
+  <Project Path="Static-variables/Static-variables.csproj" />
 </Solution>
