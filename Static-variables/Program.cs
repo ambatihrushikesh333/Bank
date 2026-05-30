@@ -34,6 +34,7 @@ namespace Static_variables
             Console.WriteLine("========================");
             Student.school = "BIIT";
             s1.Desplay();
+            
         }
     }
 }

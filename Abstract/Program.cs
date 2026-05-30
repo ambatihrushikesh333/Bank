@@ -43,6 +43,12 @@ namespace Abstract
     {
         static void Main(string[] args)
         {
+            shape s1 = new circle(5);
+            s1.ClculateArea();
+            Console.WriteLine("===============================");
+            shape s2 = new rectangle(4, 6);
+            s2.ClculateArea();
+            Console.ReadLine();
         }
     }
 }
